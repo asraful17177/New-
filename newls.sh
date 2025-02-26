@@ -1,0 +1,2 @@
+cd NameLuX
+chmod +x *
